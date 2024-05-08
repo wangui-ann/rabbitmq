@@ -1,0 +1,2 @@
+# rabbitmq
+My RabbitMQ projects
